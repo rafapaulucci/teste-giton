@@ -1,3 +1,7 @@
 #Github 
-Meu primeiro arquivo Git, usando o vscode, teste modificacao
-Gostou do curso? TESTE TESTE TESTE
+
+Modificando totalmente o primeiro arquivo no git
+
+Arquivo pronto para envio para a primeira alteração
+
+aula
